@@ -28,8 +28,7 @@
   <img align="center" alt="Lipe-Dotnet.core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="![Nó-credito](https://user-images.githubusercontent.com/84047056/164321307-9e37daaf-669f-45cd-b9e4-2154999eed90.gif)">
 <br>
-<br>
-<br>  
+
 
 <div> 
    <h6>- 📫 Como entrar em contato comigo:<h6/>
