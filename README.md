@@ -1,6 +1,6 @@
 
-<h6>Olá, meu nome é Israel Felipe<h6/>
-<h6>Sejá Bem vindo ao meu portifoliu! 😊<h6/>
+<p>Olá, meu nome é Israel Felipe<p/>
+<p>Sejá Bem vindo ao meu portifoliu! 😊<p/>
 
 
 - 👨‍💻 Futuro profissional Full Stack
