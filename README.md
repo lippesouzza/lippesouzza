@@ -3,8 +3,8 @@
 <p>Sejá Bem vindo ao meu portifoliu! 😊<p/>
 
 
-- 👨‍💻 Futuro profissional Full Stack
-- 🌱 Estou aprendendo HTML, CSS, Java Script e C#
+- 👨‍💻 Sou um desenvolvedor full stack dot NET Jr.
+- 🌱 Estou me aperfeiçoando em React e em criação de APIs com C#.
 - 👯 Estou disposta a colaborar com projetos.
 - 💡 Estou sempre buscando aprender coisas novas e resolver problemas.
 
@@ -36,6 +36,7 @@
  	<a href="https://wa.me/5511977373566" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href ="mailto:ftoddy16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-felipe-de-souza-3a702015a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://i.pinimg.com/originals/02/89/35/0289354e967b0d13c2d4f14be99801a6.gif"_blank"></a>
   <div/>
     
 
