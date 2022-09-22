@@ -26,7 +26,7 @@
   <img align="center" alt="Lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lipe-Dotnet.core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="right" alt="Lipe-pic" height="100" style="border-radius:50px;" src="[https://user-images.githubusercontent.com/84047056/164329421-6cf0979b-3b81-4988-a4ab-7c0ba5ba0f7a.gif](https://user-images.githubusercontent.com/84047056/164329421-6cf0979b-3b81-4988-a4ab-7c0ba5ba0f7a.gif)">
+  <img align="right" alt="Lipe-pic" height="100" style="border-radius:50px;" src="">
  
 <br>
 
