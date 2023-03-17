@@ -1,12 +1,12 @@
 
-<p>Olá, meu nome é Israel Felipe<p/>
-<p>Sejá Bem vindo ao meu portifoliu! 😊<p/>
+<p> Hello my names is Israel felipe<p/>
+<p> Welcome to my portfolio! 😊<p/>
 
 
-- 👨‍💻 Sou um desenvolvedor full stack dot NET Jr.
-- 🌱 Estou me aperfeiçoando em React e em criação de APIs com C#.
-- 👯 Estou disposta a colaborar com projetos.
-- 💡 Estou sempre buscando aprender coisas novas e resolver problemas.
+ - 🧑🏿‍💻 I am a Full Stack Net Jr.
+ - 🌱 I am improving myself in react and in creating APIs with C#.
+ - 👯‍♂️ I am willing to collaborate with projects.
+ - 💡 I am always trying to learn new things and solve problems.
 
   <br>
 <div>
