@@ -26,13 +26,13 @@
   <img align="center" alt="Lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lipe-Dotnet.core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
- <!- <img align="right" alt="Lipe-pic" height="100" style="border-radius:50px;" src="" -!>
+ <!-<img align="right" alt="Lipe-pic" height="100" style="border-radius:50px;" src=""-!>
  
 <br>
 
 
 <div> 
-   <h6> 📫 Como entrar em contato comigo:<h6/>
+   <h6>📫 Como entrar em contato comigo:<h6/>
   <a href="https://www.instagram.com/liippe_souzza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://wa.me/5511977373566" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href ="mailto:ftoddy16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
